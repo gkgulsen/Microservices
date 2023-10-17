@@ -1,0 +1,12 @@
+Dockerlocalhost msssql user:sa pass: 5c7DA624./0
+Dockerlocalhost postgresql user:admin pass: 5c7DA624./0
+
+Services API Ports
+	-gateway    => 5000
+	-identity	=> 5001
+	-catalog	=> 7011
+	-photostock => 7012
+	-basket		=> 7013
+	-discount   => 7014
+	-order      => 7015
+	-payment    => 7016

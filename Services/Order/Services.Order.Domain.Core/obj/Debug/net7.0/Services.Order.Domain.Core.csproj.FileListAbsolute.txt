@@ -1,0 +1,11 @@
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\bin\Debug\net7.0\Services.Order.Domain.Core.deps.json
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\bin\Debug\net7.0\Services.Order.Domain.Core.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\bin\Debug\net7.0\Services.Order.Domain.Core.pdb
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.AssemblyInfo.cs
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\refint\Services.Order.Domain.Core.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\Services.Order.Domain.Core.pdb
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain.Core\obj\Debug\net7.0\ref\Services.Order.Domain.Core.dll

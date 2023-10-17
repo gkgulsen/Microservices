@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ODVgQ4/CCWknWyAEguGAKrks45tRIKv467rJrcWi9VA=",
+  "Source": "Services.Payment",
+  "BasePath": "_content/Services.Payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

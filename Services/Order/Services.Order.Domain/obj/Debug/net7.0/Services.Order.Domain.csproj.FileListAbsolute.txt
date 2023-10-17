@@ -1,0 +1,15 @@
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\bin\Debug\net7.0\Services.Order.Domain.deps.json
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\bin\Debug\net7.0\Services.Order.Domain.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\bin\Debug\net7.0\Services.Order.Domain.pdb
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.AssemblyInfo.cs
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\refint\Services.Order.Domain.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.pdb
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\ref\Services.Order.Domain.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\bin\Debug\net7.0\Services.Order.Domain.Core.dll
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\bin\Debug\net7.0\Services.Order.Domain.Core.pdb
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.csproj.AssemblyReference.cache
+C:\Users\ggulsen\source\repos\Microservices\Services\Order\Services.Order.Domain\obj\Debug\net7.0\Services.Order.Domain.csproj.CopyComplete

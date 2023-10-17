@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0dLpDwezmMcR7i2+s9hqN1WmEKPG6eN2s/cc05ILAzU=",
+  "Source": "Services.PhotoStock",
+  "BasePath": "_content/Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Services.PhotoStock\\wwwroot",
+      "Source": "Services.PhotoStock",
+      "ContentRoot": "C:\\Users\\ggulsen\\source\\repos\\Microservices\\Services\\PhotoStock\\Services.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ggulsen\\source\\repos\\Microservices\\Services\\PhotoStock\\Services.PhotoStock\\wwwroot\\photos\\microservices_in_net.png",
+      "SourceId": "Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ggulsen\\source\\repos\\Microservices\\Services\\PhotoStock\\Services.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/Services.PhotoStock",
+      "RelativePath": "photos/microservices_in_net.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\microservices_in_net.png"
+    }
+  ]
+}
